@@ -29,4 +29,4 @@ I really enjoy learning languages and frameworks like Javascript and React, as w
 <h3 align="left">My Github Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzafar90&show_icons=true&locale=en&layout=compact" alt="uzafar90" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=uzafar90&show_icons=true&locale=en" alt="uzafar90" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzafar90&show_icons=true&theme=radical)
