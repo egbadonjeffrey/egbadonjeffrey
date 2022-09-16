@@ -7,7 +7,7 @@ I really enjoy learning languages and frameworks like Javascript and React, as w
 
 <h3 align="left">About Me:</h3>
 
-- 🔭 I’m currently working on ***Mini Projects***
+- 🔭 I’m currently working on ***Financy Coin Project***
 
 - 🌱 I’m currently learning ***Data Structure and Algorithms***
 
