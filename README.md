@@ -6,7 +6,7 @@
 <p align="left">I’m a front-end developer with a system engineer background. My experience in system engineer roles excels me to prioritize my client by providing quality service and excellent technical support. My broad-minded and logic-driven attitude helps me drill down to the core of a problem to provide creative solutions.</p>
 <p align="left">Fast forward later, I took a big step in my career and gave a chance to my passion for coding where I started self-teaching myself to code. My main goal was to extend my system engineering skillset and bring it into a Developing world where I can build websites, applications, and automation that drive efficiencies, solve problems, and help businesses maximize engagement and revenue.</p>
 <p align="left">I am currently targeted at a frontend role where I can show my skillset in different tech stacks like HTML, CSS, JS, React, and other frontend frameworks. </p>
-<h4 align="left" color="red">Connect with me @</h4>
+<h4 align="left" color="blue">Connect with me @</h4>
 <p align="left">
 <a href="https://codepen.io/utbaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="utbaz" height="30" width="40" /></a>
 <a href="https://twitter.com/iamutba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamutba" height="30" width="40" /></a>
