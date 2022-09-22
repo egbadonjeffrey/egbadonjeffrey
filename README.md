@@ -1,7 +1,7 @@
 <img align="center" src="https://raw.githubusercontent.com/uzafar90/uzafar90/main/github%20banner.png"/>
 
 <h1 align="center">Hi 👋, I'm Utba Zafar</h1>
-<h3 align="center">I'm currently open to new career opportunities and project collaborations!</h3>
+<h3 align="center" color="orange" >I'm currently open to new career opportunities and project collaborations!</h3>
 <hr/>
 <p align="left">I’m a front-end developer with a system engineer background. My experience in system engineer roles excels me to prioritize my client by providing quality service and excellent technical support. My broad-minded and logic-driven attitude helps me drill down to the core of a problem to provide creative solutions.</p>
 <p align="left">Fast forward later, I took a big step in my career and gave a chance to my passion for coding where I started self-teaching myself to code. My main goal was to extend my system engineering skillset and bring it into a Developing world where I can build websites, applications, and automation that drive efficiencies, solve problems, and help businesses maximize engagement and revenue.</p>
