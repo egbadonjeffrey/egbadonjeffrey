@@ -16,9 +16,9 @@
 
 <h3 align="left">About Me:</h3>
 
-- 🔭 I’m currently working on ***Financy Coin Project***
+- 🔭 I’m currently working on ***Mini Projects on CodePen***
 
-- 🌱 I’m currently learning ***Data Structure and Algorithms***
+- 🌱 I’m currently learning ***Data Structure and Algorithms in LeetCode***
 
 - 👨‍💻 All of my projects are available at [www.utbazafar.com](www.utbazafar.com)
 
