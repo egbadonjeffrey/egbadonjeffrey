@@ -33,6 +33,7 @@
 <h3 align="left">Certifications:</h3>
 <a href="https://www.hackerrank.com/certificates/451443d6d5f8"><img width="200px" src="https://github.com/Uzafar90/uzafar90/blob/main/JavaScript(basic).png"/></a>
 <a href="https://www.hackerrank.com/certificates/451443d6d5f8"><img width="200px" src="https://github.com/Uzafar90/uzafar90/blob/main/JavaScript(Intermediate).png"/></a>
+<a href="https://www.hackerrank.com/certificates/c14b56ea4580"><img width="200px" src="https://github.com/Uzafar90/uzafar90/blob/main/react(basic).png"/></a>
 
 
 <hr/>
