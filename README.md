@@ -14,9 +14,9 @@
 
 <h3 align="left">About Me:</h3>
 
-- 🔭 I’m currently working on ***Mini Projects on CodePen***
+- 🔭 I’m currently trying to contribute to ***Open Source***
 
-- 🌱 I’m currently learning ***Data Structure and Algorithms in LeetCode***
+- 🌱 I’m currently learning ***MERN Stack***
 
 - 👨‍💻 All of my projects are available at [www.utbazafar.com](www.utbazafar.com)
 
