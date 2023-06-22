@@ -4,11 +4,9 @@
 <h3 align="center" color="orange" >I'm currently open to new career opportunities and project collaborations!!!</h3>
 <hr/>
 <p align="left">A frontend developer with a background in system engineering, focused on providing quality service and technical support. Possessing a logical and open-minded approach, I excel at identifying core issues and providing creative solutions. I transitioned from system engineering to coding to expand my skillset and contribute to web development, application building, and automation. Seeking a frontend role to demonstrate proficiency in HTML, CSS, JS, React, and various frontend frameworks.</p>
-<h4 align="left" color="blue">Connect with me @</h4>
+<h4 align="left" color="blue">Checkout my Codepen Profile 👇👇👇</h4>
 <p align="left">
 <a href="https://codepen.io/utbaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="utbaz" height="30" width="40" /></a>
-<a href="https://twitter.com/iamutba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamutba" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/utba-zafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utba-zafar" height="30" width="40" /></a>
 </p>
 <hr/>
 
