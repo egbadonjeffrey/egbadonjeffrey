@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently trying to contribute to ***Open Source***
 
-- 🌱 I’m currently learning ***MERN Stack***
+- 🌱 I’m currently learning ***TypeScript***
 
 - 👨‍💻 All of my projects are available at [www.utbazafar.com](www.utbazafar.com)
 
