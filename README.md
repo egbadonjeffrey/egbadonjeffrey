@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Utba Zafar</h1>
 <h3 align="center" color="orange" >I'm currently open to new career opportunities and project collaborations!!!</h3>
 <hr/>
-<p align="left">A software developer with a background in system engineering, focused on providing quality service and technical support. Possessing a logical and open-minded approach, I excel at identifying core issues and providing creative solutions. I transitioned from system engineering to coding to expand my skillset and contribute to web development, application building, and automation. Seeking a frontend role to demonstrate proficiency in HTML, CSS, JS, React, and various frontend frameworks.</p>
+<p align="left">A software developer with a background in system engineering, focused on providing quality service and technical support. Possessing a logical and open-minded approach, I excel at identifying core issues and providing creative solutions. I transitioned from system engineering to coding to expand my skillset and contribute to web development, application building, and automation.</p>
 <h4 align="left" color="blue">Checkout my Codepen Profile 👇👇👇</h4>
 <p align="left">
 <a href="https://codepen.io/utbaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="utbaz" height="30" width="40" /></a>
