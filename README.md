@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/uzafar90/uzafar90/main/github%20banner.png"/>
+<img align="center" src="https://github.com/Uzafar90/uzafar90/blob/main/github%20banner.png"/>
 
 <h1 align="center">Hi 👋, I'm Utba Zafar</h1>
 <h3 align="center" color="orange" >I'm currently open to new career opportunities and project collaborations!!!</h3>
