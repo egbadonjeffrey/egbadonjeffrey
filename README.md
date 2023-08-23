@@ -32,11 +32,5 @@
 <a href="https://www.hackerrank.com/certificates/c14b56ea4580"><img width="200px" src="https://github.com/Uzafar90/uzafar90/blob/main/react(basic).png"/></a>
 
 
-<hr/>
 
-<h3 align="center">My Github Stats</h3>
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzafar90&layout=compact&theme=vision-friendly-dark" />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=uzafar90&show_icons=true&theme=codeSTACKr" />
 
