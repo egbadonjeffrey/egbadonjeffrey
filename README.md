@@ -1,36 +1,57 @@
-<img align="center" src="https://github.com/Uzafar90/uzafar90/blob/main/github%20banner.png"/>
+<h1 align="left">Hello 👋, my name is Utba Zafar.</h1>
 
-<h1 align="center">Hi 👋, I'm Utba Zafar</h1>
-<h3 align="center" color="orange" >I'm currently open to new career opportunities and project collaborations!!!</h3>
-<hr/>
-<p align="left">A software developer with a background in system engineering, focused on providing quality service and technical support. Possessing a logical and open-minded approach, I excel at identifying core issues and providing creative solutions. I transitioned from system engineering to coding to expand my skillset and contribute to web development, application building, and automation.</p>
-<h4 align="left" color="blue">Checkout my Codepen Profile 👇👇👇</h4>
-<p align="left">
-<a href="https://codepen.io/utbaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="utbaz" height="30" width="40" /></a>
-</p>
-<hr/>
+<p align="left">A software developer with a background in system engineering focused on providing quality service and technical support. Possessing a logical and open-minded approach, I excel at identifying core issues and providing creative solutions. I transitioned from system engineering to coding to expand my skill set and contribute to web development, application building, and automation. Seeking a role to demonstrate proficiency in HTML, CSS, JS, React, and various frontend frameworks.</p>
 
-<h3 align="left">About Me:</h3>
+<h2 align="left">About Me:</h2>
+<p>Open to Frontend and Software Developer Opportunities.</p>
 
-- 🔭 I’m currently trying to contribute to ***Open Source***
-
-- 🌱 I’m currently learning ***React*** with #100DaysOfCode
-
+- 🔭 I’m currently trying to contribute to **_Open Source_**
+- 🌱 I’m currently learning **_EVERYTHING_**
 - 👨‍💻 All of my projects are available at [www.utbazafar.com](www.utbazafar.com)
+- ⚡ Fun fact: **_I love to sketch, spend time with my love ones, and watch Impractical Jokers!_**
 
-- ⚡ Fun fact: ***I love to sketch, spend time with my love ones, and watch Impractical Jokers!***
-<hr/>
+<br>
+<h2 align="left">Socials:</h2>
+<a href="https://twitter.com/iamutba" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=13963&format=png" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.linkedin.com/in/utba-zafar/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.instagram.com/utba_dev/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" alt="css3" width="40" height="40"/> </a>
+<a href="https://codepen.io/utbaz" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=b7dom23p2ynU&format=png" alt="css3" width="40" height="40"/> </a>
+<a href="https://dev.to/uzafar90" target="_blank" rel="noreferrer"> <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="css3" width="40" height="40"/> </a>
 
+<br>
+<h2 align="left">Tech Stack and Tools:</h2>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Apple" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+<img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+<img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<br>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<hr/>
-
-<h3 align="left">Certifications:</h3>
+<br>
+<h2 align="left">Certifications:</h2>
 <a href="https://www.hackerrank.com/certificates/451443d6d5f8"><img width="200px" src="https://github.com/Uzafar90/uzafar90/blob/main/JavaScript(basic).png"/></a>
 <a href="https://www.hackerrank.com/certificates/451443d6d5f8"><img width="200px" src="https://github.com/Uzafar90/uzafar90/blob/main/JavaScript(Intermediate).png"/></a>
 <a href="https://www.hackerrank.com/certificates/c14b56ea4580"><img width="200px" src="https://github.com/Uzafar90/uzafar90/blob/main/react(basic).png"/></a>
+<br>
 
+<br>
+<h2 align="left">Github Stats:</h2>
 
+<details>
+<summary>My stats</summary>
+  
+![Utba's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzafar90&show_icons=true&theme=radical)
+</details>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzafar90&layout=compact&theme=radical)
