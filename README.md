@@ -8,7 +8,7 @@
 - 🔭 I’m currently trying to contribute to **_Open Source_**
 - 🌱 I’m currently learning **_EVERYTHING_**
 - 👨‍💻 All of my projects are available at [www.utbazafar.com](www.utbazafar.com)
-- ⚡ Fun fact: **_I love to sketch, spend time with my love ones, and watch Impractical Jokers!_**
+- ⚡ Fun fact: **_I love to sketch**
 
 <br>
 <h2 align="left">Socials:</h2>
