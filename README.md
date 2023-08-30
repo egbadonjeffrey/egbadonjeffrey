@@ -17,6 +17,7 @@
 <a href="https://www.instagram.com/utba_dev/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" alt="css3" width="40" height="40"/> </a>
 <a href="https://codepen.io/utbaz" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=b7dom23p2ynU&format=png" alt="css3" width="40" height="40"/> </a>
 <a href="https://dev.to/uzafar90" target="_blank" rel="noreferrer"> <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="css3" width="40" height="40"/> </a>
+<br>
 
 <br>
 <h2 align="left">👨🏻‍💻 Tech Stack and Tools:</h2>
