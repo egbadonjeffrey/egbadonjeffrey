@@ -1,22 +1,25 @@
 <h1 align="left">Hello 👋, my name is Utba Zafar.</h1>
 
-<p align="left">A software developer with a background in system engineering focused on providing quality service and technical support. Possessing a logical and open-minded approach, I excel at identifying core issues and providing creative solutions. I transitioned from system engineering to coding to expand my skill set and contribute to web development, application building, and automation. Seeking a role to demonstrate proficiency in HTML, CSS, JS, React, and various frontend frameworks.</p>
+<p align="left">As a dedicated healthcare assistant with a profound passion for the limitless potential of technology, I have consistently demonstrated a commitment to providing exceptional patient care while actively exploring the intersection of healthcare and cutting-edge solutions. My unique journey in healthcare has nurtured a compassionate and detail-oriented approach to my work.
+I harbor an unquenchable enthusiasm for the transformative power of technology within the healthcare sector. My career pivot from healthcare assistance to technology reflects my eagerness to expand my skill set and contribute to the advancement of healthcare through innovative applications, digital tools, and automation solutions.
+I am now actively seeking a role where I can leverage my healthcare background, coupled with proficiency in HTML, CSS, JS, React, and various frontend frameworks, to bridge the gap between healthcare and technology. My goal is to harness technology's potential to enhance patient experiences, improve healthcare delivery, and drive positive change in the industry.
+With a logical mindset and a compassionate heart, I am excited to explore opportunities at the intersection of healthcare and technology, offering a unique blend of healthcare expertise and technical proficiency to make a meaningful impact.</p>
 
 <h2 align="left">⭐ About Me:</h2>
 <p>Open to Frontend and Software Developer Opportunities.</p>
 
 - 🔭 I’m currently trying to contribute to **_Open Source_**
 - 🌱 I’m currently learning **_EVERYTHING_**
-- 👨‍💻 All of my projects are available at [www.utbazafar.com](www.utbazafar.com)
-- ⚡ Fun fact: **_I love to sketch**
+- 👨‍💻 All of my projects are available at [egbadonjeffrey.vercel.app](egbadonjeffrey.vercel.app)
+- ⚡ Fun fact: **_If you don't find me sketching a piece, chances are I am in the visual world of gaming **
 
 <br>
 <h2 align="left">📱 Socials:</h2>
-<a href="https://twitter.com/iamutba" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=13963&format=png" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.linkedin.com/in/utba-zafar/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.instagram.com/utba_dev/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" alt="css3" width="40" height="40"/> </a>
-<a href="https://codepen.io/utbaz" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=b7dom23p2ynU&format=png" alt="css3" width="40" height="40"/> </a>
-<a href="https://dev.to/uzafar90" target="_blank" rel="noreferrer"> <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="css3" width="40" height="40"/> </a>
+<a href="https://twitter.com/egbadon_jeffrey" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=13963&format=png" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.linkedin.com/in/egbadonjeffrey/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.instagram.com/egbadon_jeffrey/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" alt="css3" width="40" height="40"/> </a>
+<!-- <a href="https://codepen.io/utbaz" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=b7dom23p2ynU&format=png" alt="css3" width="40" height="40"/> </a> -->
+<!-- <a href="https://dev.to/uzafar90" target="_blank" rel="noreferrer"> <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="css3" width="40" height="40"/> </a> -->
 <br>
 
 <br>
@@ -29,7 +32,7 @@
 <img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<!-- <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> -->
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -37,7 +40,7 @@
 
 <br>
 <h2 align="left">🖥️ Operating Systems:</h2>
-<img align="left" alt="Apple" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+<!-- <img align="left" alt="Apple" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /> -->
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <img align="left" alt="linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br>
