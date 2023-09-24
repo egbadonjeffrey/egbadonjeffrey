@@ -46,10 +46,10 @@ With a logical mindset and a compassionate heart, I am excited to explore opport
 <br>
 
 <br>
-<h2 align="left">📜 Certifications:</h2>
-<a href="https://www.hackerrank.com/certificates/451443d6d5f8"><img width="200px" src="https://github.com/Uzafar90/uzafar90/blob/main/JavaScript(basic).png"/></a>
-<a href="https://www.hackerrank.com/certificates/451443d6d5f8"><img width="200px" src="https://github.com/Uzafar90/uzafar90/blob/main/JavaScript(Intermediate).png"/></a>
-<a href="https://www.hackerrank.com/certificates/c14b56ea4580"><img width="200px" src="https://github.com/Uzafar90/uzafar90/blob/main/react(basic).png"/></a>
+<!-- <h2 align="left">📜 Certifications:</h2> -->
+<!-- <a href="https://www.hackerrank.com/certificates/451443d6d5f8"><img width="200px" src="https://github.com/Uzafar90/uzafar90/blob/main/JavaScript(basic).png"/></a> -->
+<!-- <a href="https://www.hackerrank.com/certificates/451443d6d5f8"><img width="200px" src="https://github.com/Uzafar90/uzafar90/blob/main/JavaScript(Intermediate).png"/></a> -->
+<!-- <a href="https://www.hackerrank.com/certificates/c14b56ea4580"><img width="200px" src="https://github.com/Uzafar90/uzafar90/blob/main/react(basic).png"/></a> -->
 <br>
 
 <br>
@@ -58,10 +58,10 @@ With a logical mindset and a compassionate heart, I am excited to explore opport
 <details>
 <summary>My stats</summary>
   
-![Utba's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzafar90&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=uzafar90&theme=radical)](https://git.io/streak-stats)
+![Utba's GitHub stats](https://github-readme-stats.vercel.app/api?username=egbadonjeffrey&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=egbadonjeffrey&theme=radical)](https://git.io/streak-stats)
 </details>
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzafar90&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egbadonjeffrey&layout=compact&theme=radical)
