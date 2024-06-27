@@ -1,7 +1,13 @@
 <h1 align="left">Hello 👋, my name is Egbadon Jeffrey.</h1>
 
 <p align="left">As a dedicated healthcare assistant with a profound passion for the limitless potential of technology, I have consistently demonstrated a commitment to providing exceptional patient care while actively exploring the intersection of healthcare and cutting-edge solutions. My unique journey in healthcare has nurtured a compassionate and detail-oriented approach to my work.
+</p>
+
+<p>
 I harbor an unquenchable enthusiasm for the transformative power of technology within the healthcare sector. My career pivot from healthcare assistance to technology reflects my eagerness to expand my skill set and contribute to the advancement of healthcare through innovative applications, digital tools, and automation solutions.
+</p>
+
+<p>
 I am now actively seeking a role where I can leverage technologies I've learnt like in HTML, CSS, JS, React, and various frontend frameworks.
 With a logical mindset and a compassionate heart, I am excited to explore opportunities, offering a unique blend of healthcare expertise and technical proficiency to make a meaningful impact.</p>
 
