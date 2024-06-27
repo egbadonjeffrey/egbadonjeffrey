@@ -2,8 +2,8 @@
 
 <p align="left">As a dedicated healthcare assistant with a profound passion for the limitless potential of technology, I have consistently demonstrated a commitment to providing exceptional patient care while actively exploring the intersection of healthcare and cutting-edge solutions. My unique journey in healthcare has nurtured a compassionate and detail-oriented approach to my work.
 I harbor an unquenchable enthusiasm for the transformative power of technology within the healthcare sector. My career pivot from healthcare assistance to technology reflects my eagerness to expand my skill set and contribute to the advancement of healthcare through innovative applications, digital tools, and automation solutions.
-I am now actively seeking a role where I can leverage my healthcare background, coupled with proficiency in HTML, CSS, JS, React, and various frontend frameworks, to bridge the gap between healthcare and technology. My goal is to harness technology's potential to enhance patient experiences, improve healthcare delivery, and drive positive change in the industry.
-With a logical mindset and a compassionate heart, I am excited to explore opportunities at the intersection of healthcare and technology, offering a unique blend of healthcare expertise and technical proficiency to make a meaningful impact.</p>
+I am now actively seeking a role where I can leverage technologies I've learnt like in HTML, CSS, JS, React, and various frontend frameworks.
+With a logical mindset and a compassionate heart, I am excited to explore opportunities, offering a unique blend of healthcare expertise and technical proficiency to make a meaningful impact.</p>
 
 <h2 align="left">⭐ About Me:</h2>
 <p>Open to Frontend and Software Developer Opportunities.</p>
@@ -15,9 +15,9 @@ With a logical mindset and a compassionate heart, I am excited to explore opport
 
 <br>
 <h2 align="left">📱 Socials:</h2>
-<a href="https://twitter.com/egbadon_jeffrey" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=13963&format=png" alt="css3" width="40" height="40"/> </a>
+<!-- <a href="https://twitter.com/egbadon_jeffrey" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=13963&format=png" alt="css3" width="40" height="40"/> </a> -->
 <a href="https://www.linkedin.com/in/egbadonjeffrey/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.instagram.com/egbadon_jeffrey/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" alt="css3" width="40" height="40"/> </a>
+<!-- <a href="https://www.instagram.com/egbadon_jeffrey/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" alt="css3" width="40" height="40"/> </a> -->
 <!-- <a href="https://codepen.io/utbaz" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=b7dom23p2ynU&format=png" alt="css3" width="40" height="40"/> </a> -->
 <!-- <a href="https://dev.to/uzafar90" target="_blank" rel="noreferrer"> <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="css3" width="40" height="40"/> </a> -->
 <br>
@@ -58,7 +58,7 @@ With a logical mindset and a compassionate heart, I am excited to explore opport
 <details>
 <summary>My stats</summary>
   
-![Utba's GitHub stats](https://github-readme-stats.vercel.app/api?username=egbadonjeffrey&show_icons=true&theme=radical)
+![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=egbadonjeffrey&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=egbadonjeffrey&theme=radical)](https://git.io/streak-stats)
 </details>
 
